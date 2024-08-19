@@ -6,7 +6,10 @@ Collection of my Mods using Hexedware for VRChat
 - Brings back old vrchat loading screen
 
 THESE COLLECTION REQUIRED HEXEDWARES IL2CPP LOADER TO RUN IT
+
 tab extentions - https://github.com/Cyconi/Hexed-Mods/releases/tag/TabExtension
+
+
 object telporter - Ctrl + left mouse 
 
 fly = ctrl + F
